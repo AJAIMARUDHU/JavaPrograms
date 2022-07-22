@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
----------------// This a Password Validation program.This programs satisfies the conditions such as                                                          -
+---------------// This a Password Validation program.This program satisfies the conditions such as                                                          -
 ---------------// * it allow the size of the password only fom 8 to 28;                                                                                      -
 ---------------// * the password contains minimum 3 alphabets which is                                                                                       -
 ---------------//         - atleast 1 Uppercase(e.g. A)                                                                                                      -
