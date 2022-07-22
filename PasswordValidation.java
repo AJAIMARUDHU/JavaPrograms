@@ -1,3 +1,17 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+---------------// This a Password Validation program.This programs satisfies the conditions such as                                                          -
+---------------// * it allow the size of the password only fom 8 to 28;                                                                                      -
+---------------// * the password contains minimum 3 alphabets which is                                                                                       -
+---------------//         - atleast 1 Uppercase(e.g. A)                                                                                                      -
+---------------//         - atleast 2 Lowercase(e.g. aa or ap..,)                                                                                            -
+---------------// *The password must contains atleast 1 special charactres.                                                                                  -
+---------------// * A single special character must allways present at the end of password.                                                                  -
+---------------// * the password does not contain any consecutive alphabets or special characters(e.g. aaa) but it allows case sensitive(e.g. aAa).          -
+---------------// * The first character in a password must be an alphabetic character.                                                                       -
+---------------// * the password must contains atleast 2 number in it.                                                                                       -
+---------------//     (NOTE: If it does not satify any conditions given from the following then it will be return as "INVALID".)                             -
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 import java.util.*;
 
 public class PasswordValidation {
