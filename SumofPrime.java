@@ -25,7 +25,7 @@ public class SumofPrime {
                 }
             }
             // this is the part where the sum of elements is calculated when there is no prime numbers in the array
-            // if there is no prime numbers, except the largest element in the array, the other elements are taken in to account and sum is
+            // if there is no prime numbers, except the largest element in the array, the other elements are taken in to account and sum is calculated
             if(prime.size()==0){
                 Arrays.sort(arr);
                 for(int i=0;i<n;i++){
