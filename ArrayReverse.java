@@ -1,3 +1,8 @@
+//Array Reverse without using New array//
+//Elements position are changed in this program//
+// For Eg: if array[0]=8; then the value 8 is moved to array[lastindex]//
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 
